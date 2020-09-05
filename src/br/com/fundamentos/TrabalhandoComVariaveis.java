@@ -23,6 +23,25 @@ public class TrabalhandoComVariaveis {
 		long numeroInteiroGrande = 25l;
 		
 		System.out.println("Numero interios com long ->" + numeroInteiroGrande);
+		boolean alunoMatriculado = true;
+		boolean clienteBloqueado = false;
+		
+		// com char fica entre 'apostrofo' 'apostrofe'
+		char turmaAluno1 = 'A';
+		char tipoCliente = '2';
+		char simbolo = '@';
+		
+		// quanto usamos String o valor fica entre "aspas"
+		String nomePessoa = "Alicio";
+		
+		long populacaoUberlandia = 650000;
+		System.out.println(populacaoUberlandia);
+		
+		long populacaoMundial = 70000000000L;
+		System.out.println(populacaoMundial);
+		
+		float saldoConta = 1030.43f;
+		System.out.println(saldoConta);
 	}
 	
 }

@@ -24,6 +24,8 @@ public class NomeandoVariaveis {
 		//int @arroba;
 		
 		//String *&texto;
+		
+		
 	}
 
 }
