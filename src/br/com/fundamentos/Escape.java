@@ -20,6 +20,10 @@ public class Escape {
 		System.out.println("8-Usando o \'ecipse\'");
 		
 		System.out.println("9-Usando o \\eclipse\\");
-		// 	Cometario
+		// Comentario 
+		
+		/*
+		 * Comentario de multiplas linhas 
+		 */
 	}
 }
